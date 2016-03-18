@@ -1,0 +1,9 @@
+{
+     "interfaceType": "GET",
+     "requiredParameters": [],
+     "responseParameters": [],
+     "reqError": [],
+     "docError": [],
+     "interfaceUrl": "/add.json",
+     "interfaceName": "/add.json"
+}
